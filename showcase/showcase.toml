@@ -1,0 +1,11 @@
+[[media]]
+file = "sweep.json.gz"
+name = "A live orbital sweep"
+
+[[media]]
+file = "field.png"
+name = "The three debris rings"
+
+[[media]]
+file = "title.png"
+name = "The launch screen"
